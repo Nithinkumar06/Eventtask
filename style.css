@@ -1,0 +1,45 @@
+.Welcome{
+    background-color: deepskyblue;
+    color: black;
+    text-align: center;
+    padding: 25px;
+
+}
+.About{
+    color: black;
+    text-align:center;
+} 
+nav{
+    /* margin: 10px; */
+    text-align: center;
+    padding : 10px;
+    background-color: rgb(220, 240, 245);
+    /* display: block; */
+    
+
+}
+nav li{
+    display: inline;
+    padding: 20px, 0px;
+    
+
+    
+
+
+}
+all{
+    background-color: beige;
+}
+h2{
+    color: blue;
+}
+div{
+    margin: 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
+span{
+    color: brown;
+}
